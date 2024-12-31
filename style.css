@@ -11,7 +11,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background: linear-gradient(45deg, rgb(52, 124, 126),rgb(86, 37, 200),rgb(187, 13, 13));
+    background: linear-gradient(45deg, rgb(14, 4, 60),rgb(45, 22, 97),rgb(73, 72, 142));
 }
 .calculator{
     padding: 15px;
